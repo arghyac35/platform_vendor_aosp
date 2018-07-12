@@ -107,6 +107,9 @@ PRODUCT_PACKAGES += \
     SystemChocolateTheme \
     SettingsChocolateTheme \
     DuiChocolateTheme \
+    SystemShishuIllusionTheme \
+    SettingsShishuIllusionTheme \
+    DuiShishuIllusionTheme \
     ContactsThemeBlack \
     DialerThemeBlack \
     FilesThemeBlack \
@@ -116,6 +119,9 @@ PRODUCT_PACKAGES += \
     ContactsThemeChocolate \
     DialerThemeChocolate \
     FilesThemeChocolate \
+    ContactsThemeShishuIllusion \
+    DialerThemeShishuIllusion \
+    FilesThemeShishuIllusion \
     ContactsThemeExtended \
     DialerThemeExtended \
     FilesThemeExtended \
