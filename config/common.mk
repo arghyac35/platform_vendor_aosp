@@ -214,3 +214,6 @@ PRODUCT_PACKAGES += \
 
 # Recommend using the non debug dexpreopter
 USE_DEX2OAT_DEBUG ?= false
+
+# Fonts
+include vendor/aosp/config/fonts.mk
