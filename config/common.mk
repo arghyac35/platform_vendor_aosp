@@ -212,6 +212,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     ThemePicker
 
+PRODUCT_PACKAGES += \
+     AexOverlayStub
+
 # Recommend using the non debug dexpreopter
 USE_DEX2OAT_DEBUG ?= false
 
